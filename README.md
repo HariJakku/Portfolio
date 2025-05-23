@@ -4,8 +4,7 @@ Welcome to my **Personal Portfolio Website** built using **HTML**, **CSS**, **Ja
 
 ## 🚀 Live Demo
 
-🔗 [View Live Portfolio] https://kumarswamijakku.netlify.app/
-
+🔗[View Live Portfolio](https://kumarswamijakku.netlify.app/)
 ---
 
 ## 🛠️ Tech Stack
@@ -39,6 +38,11 @@ Welcome to my **Personal Portfolio Website** built using **HTML**, **CSS**, **Ja
    A functional contact form with social media links for easy communication.
 
 ---
+## 📫 Contact
+
+- **Email:** harijakku2005@gmail.com  
+- **LinkedIn:** [Jakku Kumarswami](https://www.linkedin.com/in/hari-jakku-189921278/)  
+
 
 ## 📦 Installation
 
@@ -49,3 +53,5 @@ git clone https://github.com/your-username/portfolio.git
 cd portfolio
 npm install
 npm start
+
+
